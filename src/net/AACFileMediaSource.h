@@ -19,7 +19,7 @@ protected:
 private:
     struct AdtsHeader {
         unsigned int syncword; // 12
-        unsigned int id; // 1
+        unsigned int id; // 1  
         unsigned int layer; // 2
         unsigned int protectionAbsent; // 1
         unsigned int profile; // 2
@@ -34,7 +34,7 @@ private:
         unsigned int aacFrameLength; // 13
         unsigned int adtsBufferFullness; // 11
 
-        unsigned int numberOfRawDataBlockInFrame; // 1
+        unsigned int numberOfRawDataBlockInFrame; // 2
     };
 
     bool parseAdtsHeader(uint8_t *in, struct AdtsHeader *res);
