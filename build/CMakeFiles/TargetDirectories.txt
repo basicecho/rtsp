@@ -1,0 +1,8 @@
+/home/basicecho/Desktop/Rtsp/build/CMakeFiles/6_v4l2_alsa.dir
+/home/basicecho/Desktop/Rtsp/build/CMakeFiles/4_v4l2.dir
+/home/basicecho/Desktop/Rtsp/build/CMakeFiles/rebuild_cache.dir
+/home/basicecho/Desktop/Rtsp/build/CMakeFiles/3_h264_aac.dir
+/home/basicecho/Desktop/Rtsp/build/CMakeFiles/5_alsa.dir
+/home/basicecho/Desktop/Rtsp/build/CMakeFiles/2_aac.dir
+/home/basicecho/Desktop/Rtsp/build/CMakeFiles/edit_cache.dir
+/home/basicecho/Desktop/Rtsp/build/CMakeFiles/1_h264.dir
